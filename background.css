@@ -8,9 +8,12 @@ body {
 	background: linear-gradient(to right, red, yellow);
 }
 
+body {
+  background: url(https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png);
+}
 h1 {
 	font: 600 3.5em 'Raleway', sans-serif;
-	color: rgba(0,0,0,.5);
+	color: hsla(165, 69%, 47%, 0.507);
 	text-align: center;
 	text-transform: uppercase;
 	letter-spacing: .5em;
